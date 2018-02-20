@@ -1,0 +1,11 @@
+D:\dotnetcore_sample\TaskApi\TaskApi\bin\Debug\netcoreapp2.0\TaskApi.deps.json
+D:\dotnetcore_sample\TaskApi\TaskApi\bin\Debug\netcoreapp2.0\TaskApi.runtimeconfig.json
+D:\dotnetcore_sample\TaskApi\TaskApi\bin\Debug\netcoreapp2.0\TaskApi.runtimeconfig.dev.json
+D:\dotnetcore_sample\TaskApi\TaskApi\bin\Debug\netcoreapp2.0\TaskApi.dll
+D:\dotnetcore_sample\TaskApi\TaskApi\bin\Debug\netcoreapp2.0\TaskApi.pdb
+D:\dotnetcore_sample\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.csprojResolveAssemblyReference.cache
+D:\dotnetcore_sample\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.csproj.CoreCompileInputs.cache
+D:\dotnetcore_sample\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.AssemblyInfoInputs.cache
+D:\dotnetcore_sample\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.AssemblyInfo.cs
+D:\dotnetcore_sample\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.dll
+D:\dotnetcore_sample\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.pdb
