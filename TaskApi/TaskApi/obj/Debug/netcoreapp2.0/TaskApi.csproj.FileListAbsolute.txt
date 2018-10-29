@@ -9,3 +9,14 @@ D:\dotnetcore_sample\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.AssemblyInf
 D:\dotnetcore_sample\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.AssemblyInfo.cs
 D:\dotnetcore_sample\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.dll
 D:\dotnetcore_sample\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.pdb
+C:\Users\humayoun\Downloads\dotnetcore_samples-master\dotnetcore_samples-master\TaskApi\TaskApi\bin\Debug\netcoreapp2.0\TaskApi.deps.json
+C:\Users\humayoun\Downloads\dotnetcore_samples-master\dotnetcore_samples-master\TaskApi\TaskApi\bin\Debug\netcoreapp2.0\TaskApi.runtimeconfig.json
+C:\Users\humayoun\Downloads\dotnetcore_samples-master\dotnetcore_samples-master\TaskApi\TaskApi\bin\Debug\netcoreapp2.0\TaskApi.runtimeconfig.dev.json
+C:\Users\humayoun\Downloads\dotnetcore_samples-master\dotnetcore_samples-master\TaskApi\TaskApi\bin\Debug\netcoreapp2.0\TaskApi.dll
+C:\Users\humayoun\Downloads\dotnetcore_samples-master\dotnetcore_samples-master\TaskApi\TaskApi\bin\Debug\netcoreapp2.0\TaskApi.pdb
+C:\Users\humayoun\Downloads\dotnetcore_samples-master\dotnetcore_samples-master\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.csprojResolveAssemblyReference.cache
+C:\Users\humayoun\Downloads\dotnetcore_samples-master\dotnetcore_samples-master\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.csproj.CoreCompileInputs.cache
+C:\Users\humayoun\Downloads\dotnetcore_samples-master\dotnetcore_samples-master\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.AssemblyInfoInputs.cache
+C:\Users\humayoun\Downloads\dotnetcore_samples-master\dotnetcore_samples-master\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.AssemblyInfo.cs
+C:\Users\humayoun\Downloads\dotnetcore_samples-master\dotnetcore_samples-master\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.dll
+C:\Users\humayoun\Downloads\dotnetcore_samples-master\dotnetcore_samples-master\TaskApi\TaskApi\obj\Debug\netcoreapp2.0\TaskApi.pdb

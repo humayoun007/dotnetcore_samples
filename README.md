@@ -1,8 +1,8 @@
 # dotnetcore samples is a sample dot net core api project for task management
 
-## WEB UI or Web Client has not created yet but will be as soon as possible
+## WEB UI or Web Client has been created also.so you can direct run it in iis express
 
-## Currently any one can test it using chrome postman or CURL after download source code and run project in IIS Express
+## Additionaly any one can test it using chrome postman or CURL after download source code and run project in IIS Express
 
 # API list (Can be consume in browser)
 

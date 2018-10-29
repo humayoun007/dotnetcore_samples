@@ -1,0 +1,31 @@
+﻿@page "{id:int?}"
+@model TaskApi.Pages.EditModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Edit Task";
+}
+
+<h1>Edit Task - @Model.Tasks.Id</h1>
+<form method="post">
+    <div asp-validation-summary="All"></div>
+    <input asp-for="Tasks.Id" type="hidden" />
+    <div>
+        <label asp-for="Tasks.Name"></label>
+        <div>
+            <input asp-for="Tasks.Name" />
+            <span asp-validation-for="Tasks.Name"></span>
+        </div>
+    </div>
+    <div>
+        <label asp-for="Tasks.IsComplete"></label>
+        <div>
+            <input asp-for="Tasks.IsComplete" />
+            <span asp-validation-for="Tasks.IsComplete"></span>
+        </div>
+    </div>
+
+    <div>
+        <button type="submit">Save</button>
+    </div>
+</form>
+
